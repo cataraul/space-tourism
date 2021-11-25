@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/cataraul/space-tourism/static/css/main.5a50743a.chunk.css",
+    "main.js": "/cataraul/space-tourism/static/js/main.4a7d2607.chunk.js",
+    "main.js.map": "/cataraul/space-tourism/static/js/main.4a7d2607.chunk.js.map",
+    "runtime-main.js": "/cataraul/space-tourism/static/js/runtime-main.d3b9e758.js",
+    "runtime-main.js.map": "/cataraul/space-tourism/static/js/runtime-main.d3b9e758.js.map",
+    "static/js/2.57465e99.chunk.js": "/cataraul/space-tourism/static/js/2.57465e99.chunk.js",
+    "static/js/2.57465e99.chunk.js.map": "/cataraul/space-tourism/static/js/2.57465e99.chunk.js.map",
+    "static/js/3.bbdbc16c.chunk.js": "/cataraul/space-tourism/static/js/3.bbdbc16c.chunk.js",
+    "static/js/3.bbdbc16c.chunk.js.map": "/cataraul/space-tourism/static/js/3.bbdbc16c.chunk.js.map",
+    "index.html": "/cataraul/space-tourism/index.html",
+    "static/css/main.5a50743a.chunk.css.map": "/cataraul/space-tourism/static/css/main.5a50743a.chunk.css.map",
+    "static/js/2.57465e99.chunk.js.LICENSE.txt": "/cataraul/space-tourism/static/js/2.57465e99.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/cataraul/space-tourism/static/media/background-technology-tablet.48c38b02.jpg",
+    "static/media/icon-close.d47fda63.svg": "/cataraul/space-tourism/static/media/icon-close.d47fda63.svg",
+    "static/media/icon-hamburger.5273efa7.svg": "/cataraul/space-tourism/static/media/icon-hamburger.5273efa7.svg",
+    "static/media/image-anousheh-ansari.bb42b775.webp": "/cataraul/space-tourism/static/media/image-anousheh-ansari.bb42b775.webp",
+    "static/media/image-douglas-hurley.e4c7def4.webp": "/cataraul/space-tourism/static/media/image-douglas-hurley.e4c7def4.webp",
+    "static/media/image-europa.c3be3238.webp": "/cataraul/space-tourism/static/media/image-europa.c3be3238.webp",
+    "static/media/image-launch-vehicle-portrait.0c758955.jpg": "/cataraul/space-tourism/static/media/image-launch-vehicle-portrait.0c758955.jpg",
+    "static/media/image-mark-shuttleworth.665e198a.webp": "/cataraul/space-tourism/static/media/image-mark-shuttleworth.665e198a.webp",
+    "static/media/image-mars.7f55f721.webp": "/cataraul/space-tourism/static/media/image-mars.7f55f721.webp",
+    "static/media/image-moon.b5a3c90e.webp": "/cataraul/space-tourism/static/media/image-moon.b5a3c90e.webp",
+    "static/media/image-space-capsule-portrait.dd0ac138.jpg": "/cataraul/space-tourism/static/media/image-space-capsule-portrait.dd0ac138.jpg",
+    "static/media/image-spaceport-portrait.85523db5.jpg": "/cataraul/space-tourism/static/media/image-spaceport-portrait.85523db5.jpg",
+    "static/media/image-titan.80738bc6.webp": "/cataraul/space-tourism/static/media/image-titan.80738bc6.webp",
+    "static/media/image-victor-glover.1c271f99.webp": "/cataraul/space-tourism/static/media/image-victor-glover.1c271f99.webp",
+    "static/media/logo.565f7f2c.svg": "/cataraul/space-tourism/static/media/logo.565f7f2c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3b9e758.js",
+    "static/js/2.57465e99.chunk.js",
+    "static/css/main.5a50743a.chunk.css",
+    "static/js/main.4a7d2607.chunk.js"
+  ]
+}
